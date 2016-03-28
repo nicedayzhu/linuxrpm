@@ -1,0 +1,6 @@
+Apache
+yum -y install gcc autoconf automake make pcre pcre-devel openssl openssl-devel
+------------------------------------------------------------------------------------
+Nginx
+yum -y install gcc pcre pcre-devel openssl openssl-devel gd gd-devel perl perl-ExtUtils-Embed
+---------------------------------------------------------------------------------------------
