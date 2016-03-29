@@ -4,3 +4,6 @@ yum -y install gcc autoconf automake make pcre pcre-devel openssl openssl-devel
 Nginx
 yum -y install gcc pcre pcre-devel openssl openssl-devel gd gd-devel perl perl-ExtUtils-Embed
 ---------------------------------------------------------------------------------------------
+MySQL
+yum -y install gcc make cmake ncurses-devel libxml2-devel libtool-ltdl-devel gcc-c++ autoconf automake bison zlib-devel
+--------------------------------------------------------------------------------------------------------------------------
